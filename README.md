@@ -29,3 +29,5 @@ We have n data points and n parameters, so the fit of this regression model will
                                        P(j/n)=β1^2(j/n)+β2^2(j/n)
  
 Fast Fourier Transform is used to compute these parameters
+
+RShiny implementation https://divya123.shinyapps.io/equake2/
