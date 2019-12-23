@@ -1,6 +1,6 @@
-# Earthquake-analysis
 
-APPLICATION OF ARIMA AND SPECTRAL ANALYSIS FOR PREDICTING EARTHQUAKES
+
+## APPLICATION OF ARIMA AND SPECTRAL ANALYSIS FOR PREDICTING EARTHQUAKES
 
 An earthquake (also known as a quake, tremor or temblor) is the shaking of the surface of the Earth, resulting from the sudden release of energy in the Earth’s lithosphere that creates seismic waves.
 
@@ -15,7 +15,7 @@ In every work that has been done so far related to Earth Prediction have not con
 
 2. Spectral analysis and filtering technique are used to predict the period of occurrence of the earthquakes. In this, spectrum and cross spectrum of different earth quake time series which uses the past data to forecast the future.
 
-Spectral Analysis
+## Spectral Analysis
 
 Decomposition of time series into underlying sine and cosine at different frequencies which allows to determine those frequencies that appear particularly strong or important
 Any time series can be expressed as a combination of cosine waves with differing periods and amplitudes .This fact can be utilized to examine the periodic (cyclical) behavior in a time series.
@@ -30,4 +30,4 @@ We have n data points and n parameters, so the fit of this regression model will
  
 Fast Fourier Transform is used to compute these parameters
 
-RShiny implementation https://divya123.shinyapps.io/equake2/
+RShiny implementation **https://divya123.shinyapps.io/equake2/**
